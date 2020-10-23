@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+
+        <item name="colorPrimary">#0072ff</item>
+        <item name="colorPrimaryDark">#0072ff</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="MyProgressBarTwo" parent="@style/Widget.AppCompat.ProgressBar.Horizontal">
+        <item name="colorButtonNormal">#FFFFFF</item>
+        <item name="colorControlActivated">#0072ff</item>
+        <item name="colorControlHighlight">#FFFFFF</item>
+        <item name="android:progressDrawable">@drawable/progressbarbg</item>
+        <item name="android:minWidth">200dp</item>
+    </style>
+    <style name="MyProgressBarTwo2" parent="@style/Widget.AppCompat.ProgressBar.Horizontal">
+        <item name="colorButtonNormal">#FFFFFF</item>
+        <item name="colorControlActivated">#0072ff</item>
+        <item name="colorControlHighlight">#FFFFFF</item>
+        <item name="android:progressDrawable">@drawable/progressbarbg2</item>
+        <item name="android:minWidth">200dp</item>
+    </style>
+</resources>
