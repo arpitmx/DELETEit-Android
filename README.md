@@ -30,3 +30,10 @@ It is a promising and pertinent app when you want to delete apps in bulk.
 3. 𝗣𝗿𝗼𝗺𝗼𝘁𝗲𝘀 "𝗕𝗼𝘆𝗰𝗼𝘁𝘁 𝗖𝗵𝗶𝗻𝗲𝘀𝗲 𝗣𝗿𝗼𝗱𝘂𝗰𝘁" 𝗺𝗼𝘃𝗲𝗺𝗲𝗻𝘁.🚫
 
 Happy Deleting!  🇮🇳 ♥
+
+<img src="https://github.com/ArpitMaurya01/DELETEit/blob/master/Screenshot/Screenshot_20200614-130027_3.png" width="150">
+<p float="left">
+  <img src="https://github.com/ArpitMaurya01/DELETEit/blob/master/Screenshot/Screenshot_20200614-130027_3.png" width="150" />
+  <img src="https://github.com/ArpitMaurya01/DELETEit/blob/master/Screenshot/Screenshot_20200614-130027_3.png" width="150" /> 
+  <img src="https://github.com/ArpitMaurya01/DELETEit/blob/master/Screenshot/Screenshot_20200614-130027_3.png" width="150" />
+</p>
