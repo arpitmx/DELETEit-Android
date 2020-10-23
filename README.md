@@ -1,4 +1,8 @@
 # DELETEit
+
+![alt text](https://github.com/ArpitMaurya01/DELETEit/blob/master/Screenshot/screenshot.png)
+
+
 An Android app which searches all over your phone and give you all the CHN apps installed on your phone , which you can directly uninstall in a single tap.
 
 DELETEit is a tool that finds its use in deleting unwanted android apps in a single tap.
