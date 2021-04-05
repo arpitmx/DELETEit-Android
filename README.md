@@ -18,7 +18,8 @@ It is a promising and pertinent app when you want to delete apps in bulk.
 
 # 𝗚𝗼𝗼𝗴𝗹𝗲 𝗽𝗹𝗮𝘆 𝘀𝘁𝗼𝗿𝗲 𝗹𝗶𝗻𝗸 :
 
- https://play.google.com/store/apps/details?id=com.india.DELETEit
+ https://m.apkpure.com/deleteit-remove-chn-apps/com.india.DELETEit
+ https://play.google.com/store/apps/details?id=com.india.DELETEit (broken)
 
 
 # 𝐊𝐞𝐲 𝐂𝐚𝐩𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬:
