@@ -16,7 +16,7 @@ It is a promising and pertinent app when you want to delete apps in bulk.
 >Ram analysis
 
 
-# 𝗚𝗼𝗼𝗴𝗹𝗲 𝗽𝗹𝗮𝘆 𝘀𝘁𝗼𝗿𝗲 𝗹𝗶𝗻𝗸 :
+# 𝗚𝗼𝗼𝗴𝗹𝗲 𝗽𝗹𝗮𝘆 𝘀𝘁𝗼𝗿𝗲 and other app 𝗹𝗶𝗻𝗸s :
 
 ### https://m.apkpure.com/deleteit-remove-chn-apps/com.india.DELETEit
 ### https://androidappsapk.co/detail-deleteit-remove-chn-apps/
