@@ -1,4 +1,4 @@
-# DELETEit
+# DELETEit 📱
 
 ![alt text](https://github.com/ArpitMaurya01/DELETEit/blob/master/Screenshot/screenshot.png)
 
