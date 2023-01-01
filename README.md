@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/ArpitMaurya01/DELETEit/blob/master/Screenshot/screenshot.png)
 
-An Android app which searches all over your phone and give you all the CHN apps installed on your phone , which you can directly uninstall in a single tap.
+An Android app which searches all over your phone and give you all the fraudulent and scam apps declared by Indian gov. and playstore which are installed on your phone , which you can directly uninstall in a single tap.
 
 DELETEit is a tool that finds its use in deleting unwanted android apps in a single tap.
 It is a promising and pertinent app when you want to delete apps in bulk.
@@ -15,7 +15,7 @@ It is a promising and pertinent app when you want to delete apps in bulk.
 >Ram analysis
 
 
-### ❕Update : Google banned DeleteIt because it was voilating its policies regarding targeting a specific countries apps. , though you can find the app on other open app stores like apkpure.com.
+### ❕Update : Google banned DeleteIt because it was voilating its policies, though you can find the app on other open app stores like apkpure.com.
 
 # 𝗚𝗼𝗼𝗴𝗹𝗲 𝗽𝗹𝗮𝘆 𝘀𝘁𝗼𝗿𝗲 and other app 𝗹𝗶𝗻𝗸s :
 
